@@ -1,0 +1,252 @@
+campaignTrail_temp.election_json = [
+    {
+        "model": "campaign_trail.election",
+        "pk": 20,
+        "fields": {
+            "year": 2016,
+            "summary": "<div style='overflow-y:scroll;height:200px;'>For nearly 20 years, Pierre Elliot Trudeau has served as the kingmaker of Canadian politics. Everybody in Canada has an opinion on the man; some praise him for being the visionary leader who has brought Canada into a new era, one formed in his image. Others deride him as an arrogant egotist who has consistently put the interests of himself and his party over those of the Canadian people. One thing is certain; the man has indelibly left his mark in this country.<br> <br> From official bilingualism to the October Crisis, from judicial liberalization to the NEP, from the Quebec Independence referendum to the patriation of the constitution. Many of the immense changes in this country have been crafted by PET, and now, after 16 years in power, the country is left teetering at the precipice of its most immense change yet: Who will replace the resigning Pierre Elliot Trudeau to take up the mantle of Prime Minister of Canada and leader of the “Natural Governing Party”? <br> <br> Amid the Prime Minister’s sudden resignation and with an election on the horizon, the unthinkable has begun to happen, the Liberals are coming back from the dead in the polls, and two familiar faces emerge as the frontrunners to take the party into the next election.</p></div>",
+            "image_url": "https://smartcdn.gprod.postmedia.digital/ottawacitizen/wp-content/uploads/2014/06/june-1984-sun-file-photo-of-jean-chretien-l-and-john-turner-photo-by-bill-ke.jpg",
+            "winning_electoral_vote_number": 270,
+            "advisor_url": "https://i.imgur.com/FqDLl3e.jpeg",
+            "recommended_reading": "<h4 style=\"margin-top: 0.5em;\">Articles</h4>FiveThirtyEight - <a href=\"http://projects.fivethirtyeight.com/2016-swing-the-election/\" target=\"_blank\"> What Would It Take To Turn Blue States Red?</a></br><a href=\"http://thehill.com/blogs/ballot-box/presidential-races/274317-anti-trump-forces-point-to-losing-match-ups-with-clinton\">Anti-Trump forces seize on grim polls for Clinton match-up</a></br><a href=\"http://www.slate.com/blogs/the_slatest/2016/02/24/donald_trump_could_beat_hillary_clinton_in_the_general.html\">Think Hillary Clinton Will Crush Donald Trump in the General Election? Don’t Be So Sure.</a></br><a href=\"http://www.slate.com/blogs/the_slatest/2016/03/01/hillary_clinton_plots_her_general_election_trump_strategy.html\">How Team Clinton Is Planning to Defeat Trump</a></br><a href=\"http://www.vox.com/2016/2/10/10961324/donald-trump-win-november\">Here's Donald Trump's Best Strategy for Winning the White House</a><h4>Books</h4>\nHillary Clinton - <a href=\"http://www.amazon.com/exec/obidos/ASIN/1476751471/amhius20-20\" target=\"_blank\">Hard Choices</a></br>\nHillary Clinton - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0743222253/amhius20-20\" target=\"_blank\">Living History</a></br>\nDonald Trump - <a href=\"http://www.amazon.com/exec/obidos/ASIN/1501137964/amhius20-20\" target=\"_blank\">Crippled America: How to Make America Great Again</a></br>\nDonald Trump - <a href=\"http://www.amazon.com/exec/obidos/ASIN/0399594493/amhius20-20\" target=\"_blank\">The Art of the Deal</a></br>\nGary Johnson - <a href=\"http://www.amazon.com/exec/obidos/ASIN/B008PXW0C0/amhius20-20\" target=\"_blank\">Seven Principles of Good Government</a>",
+            "has_visits": 0,
+            "no_electoral_majority_image": "https://files.tvo.org/files/s3fs-public/media-library/microsoftteams-image_-_2024-03-04t105606.559.png?VersionId=5Kig4PxNQujNCSFR4gGKpXKgYyI8WCSz?fid=31112",
+            "creator": "Dan Bryan",
+            "display_year": "1984LPC"
+        }
+    }
+]
+
+campaignTrail_temp.candidate_json = [
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 200,
+        "fields": {
+            "first_name": "Jean",
+            "last_name": "Chrétien",
+            "election": 20,
+            "party": "Liberal Party of Canada",
+            "state": "Quebec (Saint-Maurice)",
+            "priority": 1,
+            "description": "<div style='overflow-y:scroll;height:200px;'>\n“Most Canadians don’t understand the House of Commons. They turn on their televisions, see us yelling at one another, and dismiss us as a bunch of fools.” <br><br> Jean Chrétien has been Canada's favourite underdog for a while, and this election will be no different.<br><br> Chrétien has all of the experience needed to be Prime Minister, he's held nearly every cabinet position worth holding, Minister of Finance, Justice and currently Energy. His accomplishments as Minister of Justice have been burned into the brains of every Canadian; he successfully won the referendum for the country, successfully patriated the constitution and led the charge in creating the Charter of Rights and Freedoms.<br><br> So what's the problem here? Why isn't Chrétien the frontrunner? <br><br> It's simple: he rubs the establishment the wrong way. The Liberal has thrown their support towards Turner. Despite this, Chrétien refuses to give up and is hellbent on becoming the next Prime Minister. <br><br> In order to lead the Liberal Party, Jean Chrétien must navigate a large disadvantage in campaign funding, the establishment's unwavering support of John Turner and his perception of only appealing to French Canadians.  <br><br> However, Chrétien is an electric campaigner, able to go for months on end without any signs of slowing down. If there is anybody on the planet capable of making this comeback, it's him. He believes that he is the true people's champion, and he'll be damned if that doesn't translate to results.",
+            "color_hex": "#FF0000",
+            "secondary_color_hex": "#FFA0A0",
+            "is_active": 1,
+            "image_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/1927595/preview",
+            "electoral_victory_message": "<h3>Congratulations! You have won the 2016 election.</h3><p>In spite of a hard-fought challenge from Hillary Clinton, you have shocked the world with your election victory.</p><p>On the political front, you have the bully pulpit in your favor, but support in Congress in uncertain. Will you govern as a more traditional conservative, or will you make a break from orthodoxy?</p>",
+            "electoral_loss_message": "<h3>Sorry! You have lost the 2016 election.</h3><p>Many of your supporters are despondent that you have faltered to the likes of Hillary Clinton. Republicans in general believe this was a very winnable election, and are enraged that you came in to blow it. Luckily, there are any number of ways for you to take advantage of your newfound exposure. One rumor even has you founding a television station to profit from the aggrieved sensibilities of your followers. The future is in your hands.</p>",
+            "no_electoral_majority_message": "<h3>Almost.</h3><p>No candidate secured a majority in the Electoral College. However, the Republicans won a majority in Congress and will elevate you to the Presidency. Time will tell how things go in that regard. Any mutual affection between you and Congress is predicted to be short-lived, but you've pulled off a number of surprises to get this far.</p>",
+            "description_as_running_mate": "'",
+            "candidate_score": 1,
+            "running_mate": false
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 201,
+        "fields": {
+            "first_name": "John",
+            "last_name": "Turner",
+            "election": 20,
+            "party": "Liberal Party of Canada",
+            "state": "British Columbia (Vancouver Quadra)",
+            "priority": 2,
+            "description": "<div style='overflow-y:scroll;height:200px;'>\n“In opposition, there's not much one can do. One doesn't have the carrot and one doesn't have the stick. One can't promote and one can't fire. And persuasion has its limits.” <br><br>This is not John Turner's first rodeo.<br><br>First rising to prominence as \"the Canadian Kennedy\" when he sought the leadership of the Liberal Party in 1968, the words he said then still play on repeat in his head, \"I'm not just in this race so you will remember my name at some future date … I'm not bidding now for your consideration at some vague convention in 1984… My time is now…\"<br><br> Following his defeat to Trudeau, Turner was appointed to two significant cabinet positions: justice and finance. However, his disillusionment with his role in Trudeau's government led to his resignation from the latter post in 1975 and, ultimately, his departure from politics the following February.<br><br> Since leaving politics, he's spent much time and effort making peace with the Liberal Party's establishment to ensure that he would be the next nominee, the question is now: Can he do so with the people behind him? <br><br> Now he's officially back in public life to once again try his hand at winning the Liberal Party leadership, Turner is committed to realizing his dream from 16 years ago - becoming the Prime Minister of Canada and leading the country into a new, greater era.</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>",
+            "color_hex": "#eeff0c",
+            "secondary_color_hex": "#90C0FF",
+            "is_active": 1,
+            "image_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2042250/preview",
+            "electoral_victory_message": "<h3>Congratulations! You have won the 2016 election.</h3><p>In spite of a hard-fought challenge from Donald Trump, you have become the first woman elected to serve as President.</p><p>On the political front, it is unclear how much of your agenda you will be able to push forward with the current Congress. Hopefully your victory has helped Democrats further down the ballot. Start packing and prepare to move back into the White House!</p>",
+            "electoral_loss_message": "<h3>Sorry! You have lost the 2016 election.</h3><p>Many of your supporters are despondent that you have faltered to the likes of Donald Trump. Many in the left wing of the party are furious that you pushed their candidate aside, only to lose. Time will tell how Trump operates as President. As for you, a long and sometimes ambiguous political career seems to be coming to its end.</p>",
+            "no_electoral_majority_message": "<h3>Sorry! You have lost the 2016 election.</h3><p>No candidate secured a majority in the Electoral College. However, the Republicans won a majority in Congress and will elevate Trump to the Presidency. Time will tell how things go in that regard. As for you, a long and sometimes ambiguous political career seems to be coming to its end.</p>",
+            "description_as_running_mate": "'",
+            "candidate_score": 1,
+            "running_mate": false
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 202,
+        "fields": {
+            "first_name": "Other",
+            "last_name": "Candidates",
+            "election": 20,
+            "party": "Liberal Party of Canada",
+            "state": "Various",
+            "priority": 3,
+            "description": "'",
+            "color_hex": "#e3e9fd",
+            "secondary_color_hex": "#FFFFC0",
+            "is_active": 0,
+            "image_url": "'",
+            "electoral_victory_message": "'",
+            "electoral_loss_message": "'",
+            "no_electoral_majority_message": "'",
+            "description_as_running_mate": "'",
+            "candidate_score": 1,
+            "running_mate": false
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 204,
+        "fields": {
+            "first_name": "Liberal",
+            "last_name": "Party of Canada",
+            "election": 20,
+            "party": "LPC",
+            "state": "Ontario (Ottawa)",
+            "priority": 5,
+            "description": "'",
+            "color_hex": "#ffffff",
+            "secondary_color_hex": "#FFA0A0",
+            "is_active": 0,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Liberal_Party_of_Canada_logo%2C_1984.svg/2048px-Liberal_Party_of_Canada_logo%2C_1984.svg.png",
+            "electoral_victory_message": "'",
+            "electoral_loss_message": "'",
+            "no_electoral_majority_message": "'",
+            "description_as_running_mate": "The Liberal Party of Canada is an institution.<br><br> Ruling for 71 of the past 117 years, the party has certainly earned the moniker of Canada's \"Natural Governing Party.\" Cycling through leaders, ideologies, policies, setbacks and eras, the LPC has always managed to reinvent itself and to crawl back to the seat of power in Ottawa.<br><br> Following the resignation of Pierre Elliot Trudeau as leader and Prime Minister, the party is primed to reinvent itself yet again. As battle lines begin to form among the party ranks, one thing is certain; whatever man wins this contest will have a formidable machine, warchest, and party brand at their command- all they need to do first, is win.   ",
+            "candidate_score": 0,
+            "running_mate": true
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 209,
+        "fields": {
+            "first_name": "Liberal",
+            "last_name": "Party of Canada",
+            "election": 20,
+            "party": "LPC",
+            "state": "Ontario (Ottawa)",
+            "priority": 1,
+            "description": "<p>Put description here</p>",
+            "color_hex": "#ffffff",
+            "secondary_color_hex": null,
+            "is_active": 0,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Liberal_Party_of_Canada_logo%2C_1984.svg/2048px-Liberal_Party_of_Canada_logo%2C_1984.svg.png",
+            "electoral_victory_message": "This guy wins!",
+            "electoral_loss_message": "This guy loses!",
+            "no_electoral_majority_message": "We all win?",
+            "description_as_running_mate": "The Liberal Party of Canada is an institution.<br><br> Ruling for 71 of the past 117 years, the party has certainly earned the moniker of Canada's \"Natural Governing Party.\" Cycling through leaders, ideologies, policies, setbacks and eras, the LPC has always managed to reinvent itself and to crawl back to the seat of power in Ottawa.<br><br> Following the resignation of Pierre Elliot Trudeau as leader and Prime Minister, the party is primed to reinvent itself yet again. As battle lines begin to form among the party ranks, one thing is certain; whatever man wins this contest will have a formidable machine, warchest, and party brand at their command- all they need to do first, is win.   ",
+            "candidate_score": 1,
+            "running_mate": true
+        }
+    }
+]
+
+campaignTrail_temp.running_mate_json = [
+    {
+        "model": "campaign_trail.running_mate",
+        "pk": 85565,
+        "fields": {
+            "candidate": 201,
+            "running_mate": 209
+        }
+    },
+    {
+        "model": "campaign_trail.running_mate",
+        "pk": 172915,
+        "fields": {
+            "candidate": 200,
+            "running_mate": 204
+        }
+    }
+]
+
+campaignTrail_temp.credits = "Zac. S (u/username_taken_540) and u/firegosselin98. Special thanks to u/SuperDuperJazzFan for help with mapping"
+
+campaignTrail_temp.global_parameter_json = [
+    {
+        "model": "campaign_trail.global_parameter",
+        "pk": 1,
+        "fields": {
+            "vote_variable": 1.125,
+            "max_swing": 0.12,
+            "start_point": 0.94,
+            "candidate_issue_weight": 10,
+            "running_mate_issue_weight": 3,
+            "issue_stance_1_max": -0.71,
+            "issue_stance_2_max": -0.3,
+            "issue_stance_3_max": -0.125,
+            "issue_stance_4_max": 0.125,
+            "issue_stance_5_max": 0.3,
+            "issue_stance_6_max": 0.71,
+            "global_variance": 0.01,
+            "state_variance": 0.005,
+            "question_count": 35,
+            "default_map_color_hex": "#C9C9C9",
+            "no_state_map_color_hex": "#999999"
+        }
+    }
+]
+
+campaignTrail_temp.opponents_default_json = [
+    {
+        "election": 20,
+        "candidates": [
+            200,
+            201,
+            202
+        ]
+    }
+]
+
+campaignTrail_temp.opponents_weighted_json = [
+    {
+        "election": 20,
+        "candidates": [
+            200,
+            201,
+            202
+        ]
+    }
+]
+
+campaignTrail_temp.temp_election_list = [
+    {
+        "id": 20,
+        "year": 2016,
+        "is_premium": 0,
+        "display_year": "1984LPC"
+    }
+]
+
+jet_data = {
+    "headerColor": "#d71920",
+    "windowColor": "#ffffff",
+    "containerColor": "#d71920",
+    "innerWindowColor": "#ffffff",
+    "bannerImageUrl": "https://i.imgur.com/rL2vRxq.jpeg",
+    "backgroundImageUrl": "https://i.cbc.ca/1.4691346.1528146707!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_940/john-turner-at-the-leadership-convention-june-16-1984.jpg",
+    "endingTextColor": "#000000",
+    "customQuote": ""
+}
+
+//#startcode
+
+
+
+nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#d71920";
+
+nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#ffffff";
+
+document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_title;
+
+$("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_window;
+
+$(".container")[0].style.backgroundColor = "#d71920";
+
+document.getElementById("header").src = "https://i.imgur.com/rL2vRxq.jpeg";
+
+document.body.background = "https://i.cbc.ca/1.4691346.1528146707!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_940/john-turner-at-the-leadership-convention-june-16-1984.jpg";
+
+document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#ffffff!important;}</style>";
+
+campaignTrail_temp.musicOn = true
+campaignTrail_temp.musicSrc = ""
+
+
+//#endcode
+
+
