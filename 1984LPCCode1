@@ -32,7 +32,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#FF0000",
             "secondary_color_hex": "#FFA0A0",
             "is_active": 1,
-            "image_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/1928855/preview",
+            "image_url": "https://i.imgur.com/mEtTpAy.jpeg",
             "electoral_victory_message": "<h3>Congratulations! You have won the 2016 election.</h3><p>In spite of a hard-fought challenge from Hillary Clinton, you have shocked the world with your election victory.</p><p>On the political front, you have the bully pulpit in your favor, but support in Congress in uncertain. Will you govern as a more traditional conservative, or will you make a break from orthodoxy?</p>",
             "electoral_loss_message": "<h3>Sorry! You have lost the 2016 election.</h3><p>Many of your supporters are despondent that you have faltered to the likes of Hillary Clinton. Republicans in general believe this was a very winnable election, and are enraged that you came in to blow it. Luckily, there are any number of ways for you to take advantage of your newfound exposure. One rumor even has you founding a television station to profit from the aggrieved sensibilities of your followers. The future is in your hands.</p>",
             "no_electoral_majority_message": "<h3>Almost.</h3><p>No candidate secured a majority in the Electoral College. However, the Republicans won a majority in Congress and will elevate you to the Presidency. Time will tell how things go in that regard. Any mutual affection between you and Congress is predicted to be short-lived, but you've pulled off a number of surprises to get this far.</p>",
@@ -55,7 +55,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#eeff0c",
             "secondary_color_hex": "#90C0FF",
             "is_active": 1,
-            "image_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2042086/preview",
+            "image_url": "https://i.imgur.com/BYSVvSv.jpeg",
             "electoral_victory_message": "<h3>Congratulations! You have won the 2016 election.</h3><p>In spite of a hard-fought challenge from Donald Trump, you have become the first woman elected to serve as President.</p><p>On the political front, it is unclear how much of your agenda you will be able to push forward with the current Congress. Hopefully your victory has helped Democrats further down the ballot. Start packing and prepare to move back into the White House!</p>",
             "electoral_loss_message": "<h3>Sorry! You have lost the 2016 election.</h3><p>Many of your supporters are despondent that you have faltered to the likes of Donald Trump. Many in the left wing of the party are furious that you pushed their candidate aside, only to lose. Time will tell how Trump operates as President. As for you, a long and sometimes ambiguous political career seems to be coming to its end.</p>",
             "no_electoral_majority_message": "<h3>Sorry! You have lost the 2016 election.</h3><p>No candidate secured a majority in the Electoral College. However, the Republicans won a majority in Congress and will elevate Trump to the Presidency. Time will tell how things go in that regard. As for you, a long and sometimes ambiguous political career seems to be coming to its end.</p>",
@@ -539,54 +539,82 @@ clamp = function(a, max, min, overflow=true) {
 
 var soundtracks = {
   0: {
-    name: "Everywhere at the End of Time",
+    name: "1964",
+    tracklist: [
+       {
+        name: "House of the Rising Sun - The Animals",
+        url: "https://cdn.discordapp.com/attachments/1031403429941231627/1092636261853962330/Studio_Project_59.mp4",
+      },
+    ],
+  },
+  1: {
+    name: "Barry Goldwater",
     tracklist: [
       {
-        "name": "The Caretaker - A1; It's Just a Burning Memory",
-        "url": "https://cdn.discordapp.com/attachments/1237874436322103347/1261681312549437541/Im_the_One_2015_Remaster_320.mp3?ex=66e6e649&is=66e594c9&hm=ddff1a432fabc2df6245acf6ef8b76c5d5706cf2ee0532f0a0f4dbe94c1feeea&"
+         name: "Go with Goldwater - Otis Clements",
+        url: "https://cdn.discordapp.com/attachments/619627987268141077/1074781717291880468/Studio_Project_30.mp4",
       },
       {
-        "name": "The Caretaker - B1; All That Follows Is True",
-        "url": "https://cdn.discordapp.com/attachments/810034515334004766/1074235125669298196/b1.mp3"
+        name: "Radio Jingle - EWR & R",
+        url: "https://cdn.discordapp.com/attachments/1021566158069055578/1092617789451284571/Studio_Project_48.mp4",
       },
       {
-        "name": "The Caretaker - B6; My Heart Will Stop in Joy",
-        "url": "https://cdn.discordapp.com/attachments/810034515334004766/1074544348198338610/The_Caretaker_-_My_heart_will_stop_in_joy-OSbj99SCBds.mp3"
+        name: "Goldwater Rally Song - Jimmy Dempsey",
+        url: "https://cdn.discordapp.com/attachments/1021566158069055578/1092620781894258698/Studio_Project_50.mp4",
       },
       {
-        "name": "The Caretaker - C1; A Losing Battle Is Raging",
-        "url": "https://cdn.discordapp.com/attachments/810034515334004766/1074235126000660490/c1.mp3"
+        name: "Carry Barry to the White House - Jan McCall",
+        url: "https://cdn.discordapp.com/attachments/1021566158069055578/1092624552112160768/Studio_Project_52.mp4",
       },
       {
-        "name": "The Caretaker - D1; I Still Feel As Though I Am Me",
-        "url": "https://cdn.discordapp.com/attachments/810034515334004766/1074235126394929212/d1.mp3"
+        name: "The John Birch Society - Chad Mitchell Trio",
+        url: "https://cdn.discordapp.com/attachments/1021566158069055578/1102130861576560721/ghsooiwn.mp4",
       },
       {
-        "name": "The Caretaker - E1; Back There Benjamin",
-        "url": "https://cdn.discordapp.com/attachments/810034515334004766/1074235126654959696/e1.mp3"
+        name: "The Barry Goldwater Song - The Worsh Ahts",
+        url: "https://cdn.discordapp.com/attachments/1021566158069055578/1092618322597654628/Studio_Project_49.mp4",
+      },  
+{
+        name: "Go w/ Goldwater (Instrumental) - Otis Clements",
+        url: "https://cdn.discordapp.com/attachments/1021566158069055578/1092626348754878464/Studio_Project_53.mp4",
+      },
+
+    ],
+  },
+  2: {
+    name: "Lyndon Johnson",
+    tracklist: [
+      {
+        name: "Hello, Lyndon! - Ed Ames",
+        url: "https://cdn.discordapp.com/attachments/1021566158069055578/1092608584191320085/Studio_Project_41.mp4",
+      },
+   {
+        name: "All the Way With L.B.J. - Dr. Herman Silvers",
+        url: "https://cdn.discordapp.com/attachments/1021566158069055578/1092616130071384104/Studio_Project_47.mp4",
+      },
+
+      {
+        name: "Johnson our president - Bob Storm",
+        url: "https://cdn.discordapp.com/attachments/1021566158069055578/1092615808431169556/Studio_Project_46.mp4",
       },
       {
-        "name": "The Caretaker - E2; And Heart Breaks",
-        "url": "https://cdn.discordapp.com/attachments/810034515334004766/1078102500164522044/e2.mp3"
+        name: "That Big Man In Washington - Wes Holden",
+        url: "https://cdn.discordapp.com/attachments/1021566158069055578/1092615563999719554/Studio_Project_45.mp4",
+      },
+         {
+        name: "The Life of Lyndon Johnson- Dennis Nowicki",
+        url: "https://cdn.discordapp.com/attachments/1021566158069055578/1092614498390646846/Studio_Project_44.mp4",
       },
       {
-        "name": "The Caretaker - F1; Gradations of Arms Length",
-        "url": "https://cdn.discordapp.com/attachments/810034515334004766/1074235126977933413/f1.mp3"
+        name: "Lyndon Johnson Told the Nation - Tom Paxton",
+        url: "https://cdn.discordapp.com/attachments/1021566158069055578/1092609994140168333/Studio_Project_43.mp4",
       },
       {
-        "name": "The Caretaker - G1; Post Awareness Confusions",
-        "url": "https://cdn.discordapp.com/attachments/932087077472993350/1074234695774113792/g1.mp3"
+        name: "The Lyndon Johnson Song - Matt Beat",
+        url: "https://cdn.discordapp.com/attachments/1021566158069055578/1092608812701192202/Studio_Project_42.mp4",
       },
-      {
-        "name": "The Caretaker - N1; Sudden Time Regression into Isolation",
-        "url": "https://cdn.discordapp.com/attachments/932087077472993350/1074234813663420476/n1.mp3"
-      },
-      {
-        "name": "The Caretaker - R1; Place in the World Fades Away",
-        "url": "https://cdn.discordapp.com/attachments/932087077472993350/1074233871526268928/r1.mp3"
-      }
-    ]
-  }
+    ],
+},
 }
 
 // Set up new music player
