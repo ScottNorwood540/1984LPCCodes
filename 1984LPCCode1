@@ -180,28 +180,6 @@ e.creditsPage = () => {
     <p>pedrocheems#6531</p>
     <p>Diamondy30901#0308</p>
     <p>TomBoxXD#1642</p>
-    <h3>Music Credit</h3>
-    <p>Main ST: The Caretaker - Everywhere at the End of Time</p><br>
-    <p>We'll Meet Again - Vera Lynn (edit by SirMcSir)</p>
-    <p>My Time - Bo En (piano cover by Lattice)</p>
-    <p>Oceania's Anthem - Dominic Muldowney (cover by Noah & Clyde Music)</p>
-    <p>King Nothing - Metallica (guitar cover Julien Menard)</p>
-    <p>Your Reality - Dan Salvato (piano cover by Lattice)</p>
-    <p>An Ending - Toby Fox</p>
-    <p>Made In Heaven - Queen (piano cover by Fabrizio Spaggiari)</p>
-    <p>Requiem - Mozart</p>
-    <p>Hotel California - Eagles (music box cover by Beeano)</p>
-    <p>It's Just a Burning Memory - The Caretaker</p>
-    <p>Space Oddity - David Bowie (cover by Mike Masse and Jeff Hall)</p>
-    <p>Heartaches - Al Bowlly</p>
-    <p>Goodbye, My Beautiful - Russ Morgan</p><br><br>
-    <h1><font color='gold'>Final Note</font></h1>
-    <div style='width: 70%;text-overflow: ellipsis;text-align:center;display: block;margin-left: auto;margin-right: auto;'>
-    <p>Hi, this is Decstar. I just wanted to thank you for playing this mod.</p>
-    <p>This particular style of mod isn't necessarily the "norm" for TCT, but when I was developing the concept, I thought it would play well in the medium.</p>
-    <p>I hope you enjoy/did enjoy the mod.</p>
-    <p>To my fellow developers (who haven't seen this yet): thank you so much for your help with this, I think each of you have done a fantastic job. Thank you for putting up with my 4am schizo ideas for new endings.</p>
-    <p>And as always, remember that it's raining somewhere else.</p>
     </div>
   `
   changeGameDisp(true);
@@ -543,12 +521,12 @@ var soundtracks = {
     tracklist: [
        {
         name: "House of the Rising Sun - The Animals",
-        url: "https://cdn.discordapp.com/attachments/1031403429941231627/1092636261853962330/Studio_Project_59.mp4",
+        url: "https://www.youtube.com/watch?v=9RlKkvH4R9k",
       },
     ],
   },
   1: {
-    name: "Barry Goldwater",
+    name: "Jean Chrétien",
     tracklist: [
       {
          name: "Go with Goldwater - Otis Clements",
