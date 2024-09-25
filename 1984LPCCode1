@@ -517,11 +517,11 @@ clamp = function(a, max, min, overflow=true) {
 
 var soundtracks = {
   0: {
-    name: "1964",
+    name: "1984 LPC",
     tracklist: [
        {
-        name: "House of the Rising Sun - The Animals",
-        url: "https://www.youtube.com/watch?v=9RlKkvH4R9k",
+        name: "Anthem",
+        url: "https://cdn.discordapp.com/attachments/1284908388861349901/1284939534504693770/Canada_National_Anthem_Instrumental.mp3?ex=66f45232&is=66f300b2&hm=b18170a332c755ab05aeacfe472ee2841a373ae8427c351208b45af1a740abc1&",
       },
     ],
   },
@@ -560,15 +560,15 @@ var soundtracks = {
     ],
   },
   2: {
-    name: "Lyndon Johnson",
+    name: "John Turner",
     tracklist: [
       {
-        name: "Hello, Lyndon! - Ed Ames",
-        url: "https://cdn.discordapp.com/attachments/1021566158069055578/1092608584191320085/Studio_Project_41.mp4",
+        name: "Perfect Strangers - Deep Purple",
+        url: "https://cdn.discordapp.com/attachments/1284908388861349901/1284940842913501394/Deep_Purple_-_Perfect_Strangers_Perfect_Strangers.mp3?ex=66f45369&is=66f301e9&hm=b8ab953d4e1f04c5446a3e805e4ff1004969df1231c535f2dea92ef668519922&",
       },
    {
-        name: "All the Way With L.B.J. - Dr. Herman Silvers",
-        url: "https://cdn.discordapp.com/attachments/1021566158069055578/1092616130071384104/Studio_Project_47.mp4",
+        name: "I'm The One - Van Halen",
+        url: "https://cdn.discordapp.com/attachments/1284908388861349901/1284939746849718333/Im_the_One_2015_Remaster.mp3?ex=66f45264&is=66f300e4&hm=48eb87583098e05bd4b68ee0e13769ae832e98560eef8f86b1bae38188bfcd42&",
       },
 
       {
