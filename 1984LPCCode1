@@ -564,7 +564,7 @@ var soundtracks = {
     tracklist: [
       {
         name: "Perfect Strangers - Deep Purple",
-        url: "https://cdn.discordapp.com/attachments/1284908388861349901/1284940842913501394/Deep_Purple_-_Perfect_Strangers_Perfect_Strangers.mp3?ex=66f45369&is=66f301e9&hm=b8ab953d4e1f04c5446a3e805e4ff1004969df1231c535f2dea92ef668519922&",
+        url: "https://cdn.discordapp.com/attachments/1284908388861349901/1284940842913501394/Deep_Purple_-_Perfect_Strangers_Perfect_Strangers.mp3?ex=66f8f0a9&is=66f79f29&hm=977f9aa168ccb401e017756cf2ebc00e6c0a603a6b8d5a3c99c2b1af0551cbf9&",
       },
    {
         name: "I'm The One - Van Halen",
