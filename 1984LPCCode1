@@ -521,7 +521,7 @@ var soundtracks = {
     tracklist: [
        {
         name: "Anthem",
-        url: "https://cdn.discordapp.com/attachments/1284908388861349901/1284939534504693770/Canada_National_Anthem_Instrumental.mp3?ex=66f45232&is=66f300b2&hm=b18170a332c755ab05aeacfe472ee2841a373ae8427c351208b45af1a740abc1&",
+        url: "https://cdn.discordapp.com/attachments/1284908388861349901/1284939534504693770/Canada_National_Anthem_Instrumental.mp3?ex=66f8ef72&is=66f79df2&hm=b1e0f988015216a4dfb45386605d556fcc8d04cd2f29da0b9ee8ebe2d637f5a7&",
       },
     ],
   },
